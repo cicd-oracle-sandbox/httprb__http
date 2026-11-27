@@ -1,0 +1,4 @@
+upstream: https://github.com/httprb/http
+commit: 23212edc1dc8ec391082687d2064d52a5a876926
+license: MIT
+Unmodified snapshot except that .github/workflows was emptied.
